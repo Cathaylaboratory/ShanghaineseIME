@@ -1,7 +1,7 @@
 # ShanghaineseIME
 It is a collaborating process to finish the Shanghainese IME
 
-* please add you codes at the end row in the taichow.kmn file
+* please add your codes at the end row in the taichow.kmn file below
 * please simulate the sentence I have already provided for you
 * the sentence and two types, the first type is
 # 'romanization' + [K_TAB] > 'kanji'
